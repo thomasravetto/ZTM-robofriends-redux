@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/thomasravetto.github.io/ZTM-robofriends-redux/static/css/main.916f50be.css",
-    "main.js": "/thomasravetto.github.io/ZTM-robofriends-redux/static/js/main.58452414.js",
-    "static/js/453.eceb90f9.chunk.js": "/thomasravetto.github.io/ZTM-robofriends-redux/static/js/453.eceb90f9.chunk.js",
-    "service-worker.js": "/thomasravetto.github.io/ZTM-robofriends-redux/service-worker.js",
-    "static/media/SEGA.woff": "/thomasravetto.github.io/ZTM-robofriends-redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/thomasravetto.github.io/ZTM-robofriends-redux/index.html",
-    "main.916f50be.css.map": "/thomasravetto.github.io/ZTM-robofriends-redux/static/css/main.916f50be.css.map",
-    "main.58452414.js.map": "/thomasravetto.github.io/ZTM-robofriends-redux/static/js/main.58452414.js.map",
-    "453.eceb90f9.chunk.js.map": "/thomasravetto.github.io/ZTM-robofriends-redux/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/ZTM-robofriends-redux/static/css/main.01b0bc7c.css",
+    "main.js": "/ZTM-robofriends-redux/static/js/main.c56ae176.js",
+    "static/js/453.60e81e1c.chunk.js": "/ZTM-robofriends-redux/static/js/453.60e81e1c.chunk.js",
+    "service-worker.js": "/ZTM-robofriends-redux/service-worker.js",
+    "static/media/SEGA.woff": "/ZTM-robofriends-redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ZTM-robofriends-redux/index.html",
+    "main.01b0bc7c.css.map": "/ZTM-robofriends-redux/static/css/main.01b0bc7c.css.map",
+    "main.c56ae176.js.map": "/ZTM-robofriends-redux/static/js/main.c56ae176.js.map",
+    "453.60e81e1c.chunk.js.map": "/ZTM-robofriends-redux/static/js/453.60e81e1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.916f50be.css",
-    "static/js/main.58452414.js"
+    "static/css/main.01b0bc7c.css",
+    "static/js/main.c56ae176.js"
   ]
 }
